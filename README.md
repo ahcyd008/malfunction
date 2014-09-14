@@ -3,4 +3,4 @@ malfunction
 
 A multimedia malfunction system of ustc
 
-hello all
+由于安全性问题，后来代码托管于科大服务器。
